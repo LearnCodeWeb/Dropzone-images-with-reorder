@@ -1,2 +1,2 @@
-# Dropzone-images-with-reorder
+# Dropzone images with reorder
 Upload multiple images and reorder using JQuery
